@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "849722379196",
+    "project_id": "martapp-b121f",
+    "storage_bucket": "martapp-b121f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849722379196:android:b775d8e02c6dbb092bb9b9",
+        "android_client_info": {
+          "package_name": "com.martapp.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU3gy1bEQ1iPZHQnGn8junow9Drn2UCu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
